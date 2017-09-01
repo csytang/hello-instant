@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "helloinstantapp.instantapp.examples.chrisyttang.org",
+    "sha256_cert_fingerprints":
+    ["CE:4E:33:A3:5A:4D:0F:8A:CF:5B:CE:0F:69:C7:28:19:8C:17:0B:18:E1:A3:9F:C4:F1:E8:38:A6:CD:95:4F:BD"]
+  }
+}]
